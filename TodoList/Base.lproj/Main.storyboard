@@ -35,6 +35,9 @@
                                 <rect key="frame" x="292" y="50" width="83" height="35"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="추가하기"/>
+                                <connections>
+                                    <action selector="alertpopup" destination="BYZ-38-t0r" eventType="touchUpInside" id="5g5-Tf-qdq"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
